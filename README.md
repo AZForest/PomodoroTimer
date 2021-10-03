@@ -17,5 +17,5 @@ Timer in progress:
 ### Built with:
 
 * React
-  * Created with create-react-app
+  * Created with [create-react-app](https://github.com/facebook/create-react-app)
 * Bootstrap
